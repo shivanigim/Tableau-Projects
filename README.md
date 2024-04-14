@@ -1,1 +1,1 @@
-# Tableau-Projects
+# (Description/Background): The Tableau dashboard adeptly sets the stage by highlighting the historical context of Toys "R" Us, including its journey to bankruptcy. It synthesizes the need for a proposal by recognizing the complex, multi-faceted reasons behind the company's downturn in sales. This cogent synthesis established clear need for a data-driven approach to address the company’s challenges. 
